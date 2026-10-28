@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Project specifics
+build/
+dist/
+test_data/
+*.fsa
+.vscode/

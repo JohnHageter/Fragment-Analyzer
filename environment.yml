@@ -1,0 +1,13 @@
+name: frag-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - scipy
+  - matplotlib
+  - tk
+  - pip
+  - pip:
+      - tkinterdnd2
+      - pyinstaller
